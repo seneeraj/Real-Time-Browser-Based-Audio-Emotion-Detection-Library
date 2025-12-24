@@ -44,7 +44,7 @@ initBtn.onclick = async () => {
     statusDiv.innerText = "Loading model...";
 
     // Load TFJS LayersModel
-    emotionModel = await tf.loadLayersModel("../model/model.json");
+    emotionModel = await tf.loadLayersModel("./model/model.json");
     console.log("✅ Emotion model loaded");
 
     // Init bars UI
@@ -163,3 +163,4 @@ function updateBars(scores) {
         bar.style.backgroundColor = EMOTION_COLORS[EMOTIONS[i]];
     });
 }
+
