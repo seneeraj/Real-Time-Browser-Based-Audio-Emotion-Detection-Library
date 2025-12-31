@@ -1,4 +1,4 @@
-# Client-Side-Audio-Emotion-Detection---Phase-2
+# Real-Time Browser-Based Audio Emotion Detection Library
 A **fully browser-based, real-time emotion detection system** built using **TensorFlow.js**, designed to run **entirely on the client side** with **no backend inference**.
 
 This project represents **Phase-2++**, a stability-focused redesign after identifying deployment limitations in CNN-based browser models.
