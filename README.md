@@ -1,6 +1,5 @@
 # Real-Time Browser-Based Audio Emotion Detection Library
 
-License: MIT
 
 A **fully browser-based, real-time emotion detection system** built using **TensorFlow.js**, designed to run **entirely on the client side** with **no backend inference**.
 
@@ -185,6 +184,18 @@ Users are responsible for complying with dataset-specific terms
 This repository contains only trained model artifacts and inference code
 
 For dataset licensing details, please refer to the original dataset publishers.
+
+
+License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software for both personal
+and commercial purposes.
+
+See the LICENSE file for full details.
+For enterprise or commercial engagement, see COMMERCIAL.md.
+
 
 
 CREMA-D dataset authors
