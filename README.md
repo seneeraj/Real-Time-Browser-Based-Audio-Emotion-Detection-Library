@@ -172,6 +172,21 @@ Dataset licenses (e.g., CREMA-D) apply to training data separately.
 Acknowledgements
 TensorFlow.js team
 
+Dataset & Training Disclaimer
+
+This repository does NOT include any training datasets.
+
+Model training was performed offline using publicly available datasets such as CREMA-D, which are governed by their own licenses and usage terms.
+
+Dataset licenses do not transfer with this code
+
+Users are responsible for complying with dataset-specific terms
+
+This repository contains only trained model artifacts and inference code
+
+For dataset licensing details, please refer to the original dataset publishers.
+
+
 CREMA-D dataset authors
 
 Web Audio API contributors
